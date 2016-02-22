@@ -1,0 +1,32 @@
+[
+    {
+        "question":"What is fromSpace?",
+        "answer":"fromSpace is a beautiful app that brings you the most stunning pictures of Earth surface. Each picture is handpicked carefully and cropped beautifully to fit your screen well"
+    },
+    {
+        "question":"How often do you update new content?",
+        "answer":"We will try our best to bring more beautiful content to the app, but with limited time and resources we will try to update it at least every week."
+    },{
+        "question":"Why is the color different from what I see in real life?",
+        "answer":"Actually some images are the real one, the remaining was under some sort of treatment (like false color) to make it viewable/understandable by the researchers."
+    },
+    {
+        "question":"In which location were wallpapers saved?",
+        "answer":"It is stored in fromSpace folder inside Pictures directory of your media storage."
+    },
+    {
+        "question":"I have beautiful wallpapers. Can I add them to your app?",
+        "answer":"Yes, as long as the images is under Public Domain license and showing view from Outer Space to Earth's landscape. Please contact us using the Feedback function for this matter."
+    },
+    {
+        "question":"The wallpaper is not of high quality on my device. What can I do?",
+        "answer":"Due to the quality of the source and the resolution limit of the best-cropped view, some pictures will not have high dimension. You can try with other images. Sorry for about this :("
+    },
+    {
+        "question":"Do you store my Favourites on your server?",
+        "answer":"This is a under-development function. Stay tuned and keep checking back the app."
+    },{
+        "question":"I found my work published here without permissions. What can I do?",
+        "answer":"All images in the app are under Public Domain license which means the author has given up all his rights on the material. If you think that it is not true about any picture, feel free to contact us via support@fromspace.co and provide relevant information regarding your work."
+    }
+]
