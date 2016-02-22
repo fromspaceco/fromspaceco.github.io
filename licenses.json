@@ -1,0 +1,72 @@
+[
+    {
+        "library":"material-dialogs",
+        "author":"Aidan Michael Follestad",
+        "repo":"https://github.com/afollestad/material-dialogs",
+        "license":"MIT License",
+        "license_content":"The MIT License (MIT)\n\nCopyright (c) 2015 Aidan Michael Follestad\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the 'Software'), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+    },
+    {
+        "library":"butterknife",
+        "author":"Jake Wharton",
+        "repo":"https://github.com/JakeWharton/butterknife",
+        "license":"Apache License 2.0",
+        "license_content":""
+    },
+    {
+        "library":"BoltsFramework",
+        "author":"Facebook, Inc",
+        "repo":"https://github.com/BoltsFramework/Bolts-Android",
+        "license":"BSD License",
+        "license_content":""
+    },
+    {
+        "library":"glide",
+        "author":"Google, Inc",
+        "repo":"https://github.com/bumptech/glide",
+        "license":"BSD, part MIT and Apache 2.0",
+        "license_content":""
+    },
+    {
+        "library":"bottomsheet",
+        "author":"Flipboard",
+        "repo":"https://github.com/Flipboard/bottomsheet",
+        "license":"Apache",
+        "license_content":""
+    },
+    {
+        "library":"SmoothProgressBar",
+        "author":"Antoine Merle",
+        "repo":"https://github.com/castorflex/SmoothProgressBar",
+        "license":"Apache License 2.0",
+        "license_content":""
+    },
+    {
+        "library":"Realm",
+        "author":"Realm Inc",
+        "repo":"https://github.com/realm/realm-java",
+        "license":"Apache License 2.0",
+        "license_content":""
+    },
+    {
+        "library":"gson",
+        "author":"Google, Inc",
+        "repo":"https://github.com/google/gson",
+        "license":"Apache License 2.0",
+        "license_content":""
+    },
+    {
+        "library":"okhttp",
+        "author":"Square, Inc",
+        "repo":"https://github.com/square/okhttp",
+        "license":"Apache License 2.0",
+        "license_content":""
+    },
+    {
+        "library":"tray",
+        "author":"grandcentrix GmbH",
+        "repo":"https://github.com/grandcentrix/tray",
+        "license":"Apache License 2.0",
+        "license_content":""
+    }
+]
